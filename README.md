@@ -1,106 +1,191 @@
-# Full-Stack Web Developer
+# Hi, I'm Keyvan Hojabr
 
-📍 Vienna, Austria
-💻 MERN Stack Developer (React, Node.js, MongoDB)
+### Full-Stack Developer | React.js | Node.js | Backend Engineering
+
+Vienna, Austria
+JavaScript | React | Node.js | Express.js | MongoDB | PostgreSQL
+Linux | Docker | CI/CD | Cloud Technologies
 
 ---
 
 ## About Me
 
-I am a Full-Stack Web Developer based in Vienna with hands-on experience building scalable, efficient, and user-focused web applications. I specialize in the MERN stack and enjoy developing real-world systems with clean architecture, maintainable code, and practical functionality.
+I am a Full-Stack Web Developer based in Vienna, Austria, with hands-on experience building modern web applications, REST APIs, backend services, and monitoring systems.
 
-I completed an intensive Full-Stack Web Development program at WBS Coding School in Berlin, focused on agile teamwork, production-level development workflows, and real project delivery.
+My primary technology stack includes JavaScript, React.js, Node.js, Express.js, MongoDB, and PostgreSQL. I enjoy developing practical software solutions with clean architecture, maintainable code, and a focus on functionality, performance, and reliability.
 
-Currently, I am studying Electronics, Computer Science, and Network Engineering at TGM (HTL) Vienna, while continuously expanding my expertise in modern web development, system architecture, cloud technologies, and DevOps.
+My full-stack development experience covers the complete application development lifecycle, from building responsive user interfaces with React.js to developing backend services, designing REST APIs, implementing authentication, and integrating databases.
+
+I completed an intensive Full-Stack Web Development program at WBS Coding School in Berlin, where I gained practical experience working on real-world projects, agile methodologies, and collaborative software development.
+
+Currently, I am studying Electronics, Computer Science, and Network Engineering at TGM (HTL) Vienna. Alongside software development, I am expanding my knowledge of Linux administration, networking, Docker, cloud infrastructure, automation, and DevOps practices.
+
+I am passionate about continuous learning, building practical projects, and developing reliable software solutions.
 
 ---
 
 ## Education
 
-- Electronics, Computer Science & Network Engineering (DevOps focus) — TGM (HTL), Vienna (2025–Present)
-- Full-Stack Web Development — WBS Coding School, Berlin (2023)
-- React.js Training — Sharif University of Technology, Tehran (2024)
-- SQL Server Course — University of Tehran (2022)
-- General Programming Course — Technical & Vocational Organization, Mashhad (2022)
-- Bachelor’s Degree in Industrial Engineering — Sajad University, Mashhad (2014)
+- **Electronics, Computer Science & Network Engineering** — TGM (HTL), Vienna, Austria (2025–Present)
+- **Full-Stack Web Development** — WBS Coding School, Berlin, Germany (2023)
+- **React.js Training** — Sharif University of Technology, Tehran (2024)
+- **SQL Server Course** — University of Tehran (2022)
+- **General Programming Course** — Technical & Vocational Organization, Mashhad (2022)
+- **Bachelor of Science in Industrial Engineering** — Sajad University, Mashhad (2014)
 
 ---
 
 ## Technical Skills
 
-**Frontend**
-- HTML5, CSS3, Tailwind CSS
+### Frontend Development
+- HTML5, CSS3
 - JavaScript (ES6+)
 - React.js
+- Bootstrap
+- Tailwind CSS
 
-**Backend**
+### Backend Development
 - Node.js
 - Express.js
-- REST APIs
+- REST API Development
+- JWT Authentication & Authorization
+- Socket.IO
 
-**Databases**
+### Databases
 - MongoDB
+- PostgreSQL
 - MySQL
+- Prisma ORM
 
-**DevOps & Tools**
-- Linux
-- Docker
-- Git & GitHub :contentReference[oaicite:0]{index=0}
-- CI/CD fundamentals
-- Agile workflows
+### DevOps & Infrastructure
+- Linux & Shell Scripting
+- Docker & Docker Compose
+- Git & GitHub
+- GitHub Actions
+- CI/CD Fundamentals
+- Server & Network Monitoring
+- Networking Fundamentals
+- Virtualization with Vagrant
 
----
-
-## Projects
-
-### Network Monitoring Dashboard
-A full-stack real-time network monitoring dashboard designed to visualize system/network metrics and provide a centralized overview of infrastructure health.
-Built with React-based frontend architecture and Node.js backend services, focusing on modular design, API integration, and dashboard-style data visualization.
-
-🔗 GitHub: https://github.com/Keyvan1369/network-monitor-dashboard
-
----
-
-### Online Doctor Appointment System
-Full-stack MERN application for managing medical appointments with user authentication, scheduling system, and database integration.
-
-🔗 https://hi-doctor.onrender.com
+### Currently Expanding My Knowledge
+- AWS & Cloud Computing
+- Kubernetes
+- Infrastructure as Code (IaC)
+- DevOps Automation
+- Cloud Infrastructure
+- System Architecture
 
 ---
 
-### Church Management Platform
-Web application for managing organizational workflows and content.
+## Featured Projects
 
-🔗 https://church-project-frontend-1.vercel.app
+### 1. Network Monitoring Dashboard
 
----
+A full-stack network monitoring application designed to monitor network devices, visualize connectivity status, and track latency through a centralized dashboard.
 
-### E-Commerce Shop Application
-Full-stack e-commerce platform with product management and backend API structure.
+**Technologies:** React.js, Bootstrap, Node.js, Express.js, PostgreSQL, Prisma, Socket.IO, Docker, GitHub Actions.
 
-🔗 https://shop-project-e8tg.onrender.com
+**Key Features:**
+- Network device management (CRUD)
+- Device availability and connectivity monitoring
+- Ping latency tracking
+- Real-time dashboard updates
+- REST API integration
+- Docker-based deployment
+- CI/CD automation with GitHub Actions
 
----
-
-## Focus Areas
-
-- Scalable system design & backend architecture
-- Real-time dashboards & monitoring systems
-- Clean code and maintainable structure
-- Cloud & DevOps fundamentals
-- Continuous professional development
+🔗 [GitHub Repository](https://github.com/Keyvan1369/network-monitor-dashboard)
 
 ---
 
-## Open To
+### 2. Online Doctor Appointment System
 
-Full-time, part-time, and freelance opportunities in Full-Stack Development and system-oriented web applications.
+A full-stack MERN application for managing medical appointments, user authentication, and appointment scheduling.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB.
+
+🔗 [Live Application](https://hi-doctor.onrender.com)
+
+---
+
+### 3. Linux Multi-Server Health Monitor
+
+A Linux-based infrastructure monitoring project designed to collect and display essential health metrics from multiple virtual servers.
+
+**Technologies:** Linux, Bash, Shell Scripting, Vagrant.
+
+**Key Features:**
+- Multi-server health monitoring
+- CPU load monitoring
+- RAM usage monitoring
+- Disk usage monitoring
+- Automated monitoring scripts
+- Centralized terminal-based reporting
 
 ---
 
-## Contact
+## Certifications & Professional Training
 
-GitHub: https://github.com/Keyvan1369
-Portfolio projects listed above
+### IBM – DevOps & Software Engineering Courses
+
+Completed specialized courses through Coursera, covering software engineering, automation, cloud-native development, and DevOps practices.
+
+**Selected Courses:**
+
+- Monitoring and Observability for Development and DevOps
+- Application Security for Developers and DevOps Professionals
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Introduction to Containers with Docker, Kubernetes & OpenShift
+- Hands-on Introduction to Linux Commands and Shell Scripting
+- Application Development using Microservices and Serverless
+- Getting Started with Git and GitHub
+- Introduction to DevOps
+- Python for Data Science, AI & Development
+
+**Issuing Organization:** IBM
+**Learning Platform:** Coursera
+
+🔗 [Verify IBM Python Certificate](https://coursera.org/verify/ZA219KJYUZQ0)
 
 ---
+
+##  Professional Interests
+
+- Full-Stack Web Development
+- Backend Development & API Architecture
+- Database Design & Integration
+- Software Engineering
+- Cloud Computing & AWS
+- DevOps & CI/CD Automation
+- Linux System Administration
+- Network & Infrastructure Monitoring
+- Containerization & Orchestration
+- Scalable and Maintainable Software Systems
+
+---
+
+## Open to Opportunities
+
+I am open to professional opportunities in:
+
+- Full-Stack Developer
+- Backend Developer
+- Junior Software Developer
+- Junior DevOps Engineer
+- Junior Cloud Engineer
+
+**Location:** Vienna, Austria
+**Work Preferences:** Full-Time, Part-Time, On-site, Hybrid & Remote
+
+---
+
+## Connect With Me
+
+- **GitHub:** [Keyvan1369](https://github.com/Keyvan1369)
+- **LinkedIn:** [Keyvan Hojabr](https://www.linkedin.com/in/keyvan-hojabr/)
+
+Feel free to explore my repositories and connect with me!
+
+---
+
+*Always learning, building, and improving.*
