@@ -94,7 +94,7 @@ A full-stack network monitoring application designed to monitor network devices,
 - Docker-based deployment
 - CI/CD automation with GitHub Actions
 
-🔗 [GitHub Repository](https://github.com/Keyvan1369/network-monitor-dashboard)
+[GitHub Repository](https://github.com/Keyvan1369/network-monitor-dashboard)
 
 ---
 
@@ -104,7 +104,7 @@ A full-stack MERN application for managing medical appointments, user authentica
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB.
 
-🔗 [Live Application](https://hi-doctor.onrender.com)
+[Live Application](https://hi-doctor.onrender.com)
 
 ---
 
@@ -145,7 +145,7 @@ Completed specialized courses through Coursera, covering software engineering, a
 **Issuing Organization:** IBM
 **Learning Platform:** Coursera
 
-🔗 [Verify IBM Python Certificate](https://coursera.org/verify/ZA219KJYUZQ0)
+[Verify IBM Python Certificate](https://coursera.org/verify/ZA219KJYUZQ0)
 
 ---
 
